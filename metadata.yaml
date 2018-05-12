@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1717
     wikipedia: http://en.wikipedia.org/wiki/Selma_Lagerlöf
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29957#Ein-St-ck-Lebensgeschichte-und-andere-Erz-hlungen
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2009-09-10'
 gutenberg_type: Text
